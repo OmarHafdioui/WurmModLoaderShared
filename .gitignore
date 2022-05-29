@@ -14,3 +14,5 @@ beta
 pom.xml.versionsBackup
 *~
 .*.swp
+/serverBase/server.jar
+/serverBase/common.jar
